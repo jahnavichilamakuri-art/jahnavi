@@ -1,0 +1,14 @@
+<DOCTYPE HTML>
+</head>
+<html>
+<head> 
+   <title>formatting </title>
+</head>
+<body>
+    <Bold> thanusha reddy </Bold>
+    <Strong> i am strong </strong>
+    <I> this text is italic </i>
+    <Small> the toy is small </small>
+    <P> My color is blue </p>
+ </html></body>
+
